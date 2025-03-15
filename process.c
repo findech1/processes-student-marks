@@ -93,7 +93,7 @@ int main() {
     } while (choice == 'y' || choice == 'Y');
     
     // Write to file
-    file = fopen("student_results.txt", "w");
+    file = fopen("student_results.csv", "w");
     if (file == NULL) {
         printf("Error opening file!\n");
         return 1;
