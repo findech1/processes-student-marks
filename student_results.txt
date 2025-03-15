@@ -1,0 +1,11 @@
+Student Name,Assignment 1,Grade,Assignment 2,Grade,Assignment 3,Grade,Assignment 4,Grade,Assignment 5,Grade,Average,Final Grade
+Ndege Felix,40,D,90,A,56,C,89,A,78,A,70.60,A
+Opiyo ndugu,98,A,56,C,87,A,43,D,23,E,61.40,B
+
+Grading Criteria:
+Total score,Grade
+0-39,E
+40-49,D
+50-59,C
+60-69,B
+70-100,A
