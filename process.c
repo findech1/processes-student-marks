@@ -128,7 +128,7 @@ int main() {
     
     fclose(file);
     
-    printf("\nStudent results have been written to 'student_results.txt'\n");
+    printf("\nStudent results have been written to 'student_results.csv'\n");
     printf("You can now export this file to Excel.\n");
     
     return 0;
